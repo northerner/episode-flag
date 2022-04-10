@@ -2,6 +2,9 @@
 
 A command-line podcast searching tool.
 
+<img width="1280" alt="episode_flag" src="https://user-images.githubusercontent.com/1578054/162627467-a23415b6-433f-4d9a-80af-c95010edc022.png">
+
+
 ## What?
 
 This was a quick script written mainly to play with the new Ruby Async gem.
