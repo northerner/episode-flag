@@ -7,9 +7,11 @@ A command-line podcast searching tool.
 
 ## What?
 
+A tool for searching the titles and descriptions of recent podcast episodes you subscribe to. Provide the OPML file from your podcast client, along with a search term and how far back you want to search, and get a list of matching episodes.
+
 This was a quick script written mainly to play with the new Ruby Async gem.
 
-This is currently just a command-line script, but it could be improved by abstracting the core for use in a web service that allows users to upload an OPML file, set their search terms, and get a weekly email with matching episodes.
+It is currently just a command-line script, but it could be improved by abstracting the core for use in a web service that allows users to upload an OPML file, set their search terms, and get a weekly email with matching episodes.
 
 ## Why?
 
